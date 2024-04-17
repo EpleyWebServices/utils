@@ -1,0 +1,24 @@
+{
+  "name": "utils",
+  "version": "0.0.1-alpha",
+  "description": "Small utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EpleyWebServices/utils.git"
+  },
+  "keywords": [
+    "utilies",
+    "functions",
+    "helpers"
+  ],
+  "author": "Mac Epley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EpleyWebServices/utils/issues"
+  },
+  "homepage": "https://github.com/EpleyWebServices/utils#readme"
+}
