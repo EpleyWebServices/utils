@@ -23,7 +23,7 @@
  * console.log(userClassNames); // Output: "user logged-in"
  */
 
-export function cx(...args) {
+export function cx(...args: (string | string[])[]) {
   return args
     .flat() // Flatten the array in case nested arrays are provided
     .filter((x) => typeof x === "string") // Filter out non-string elements
